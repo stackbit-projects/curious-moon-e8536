@@ -10,4 +10,4 @@ intro_image_hide_on_mobile: true
 ---
 # MERCHANT  TEX
 
-a dynamic one stop Apparel Sourcing, Supplier Fashion Woven, Knitwear & Sweater’s manufacturing company based in Bangladesh.
+A dynamic one stop Apparel Sourcing, Supplier Fashion Woven, Knitwear & Sweater’s manufacturing company based in Bangladesh.
